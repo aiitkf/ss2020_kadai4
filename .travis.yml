@@ -1,6 +1,5 @@
 language: bash
 script:
- - echo hello
  - echo Travis CI test in .travis.yml
  - ./kf_tester_kadai4.sh 2>/dev/null
 
